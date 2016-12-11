@@ -30,4 +30,5 @@ folly/FormatTables.cpp
 folly/EscapeTables.cpp
 folly/GroupVarintTables.cpp
 folly/FingerprintTables.cpp
-
+*.swp
+*~
